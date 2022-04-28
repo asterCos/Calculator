@@ -34,7 +34,6 @@ def clear_last():
 ## Window setup loop
 root = tk.Tk()
 root.title('Calculator')
-root.iconbitmap(r"C:\Users\jlaw\Desktop\Code\Calculator\icon.ico")
 root.resizable(width=False, height=False)
 root.config(bg='#3D4252')
 
